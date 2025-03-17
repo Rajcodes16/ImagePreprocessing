@@ -106,15 +106,3 @@ def streamlit_interface():
 if __name__ == "__main__":
     streamlit_interface()
 
-# 6. Requirements File
-# Contents for requirements.txt:
-# torch
-# torchvision
-# gradio
-# streamlit
-# matplotlib
-# pandas
-# numpy
-# scikit-learn
-
-# The code is enhanced with precision/recall metrics, better UX, and creative multiple-class predictions, ready for deployment on Hugging Face Spaces.
